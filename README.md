@@ -1,4 +1,4 @@
-## [CTIN: Robust Contextual Transformer Network for Inertial Navigation](https://bingrao.github.io/static/data/paper/2022-AAAI/2022-AAAI-CTIN.pdf)
+## [CTIN: Robust Contextual Transformer Network for Inertial Navigation](https://arxiv.org/abs/2112.02143)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 This is the official implementation of our paper:
