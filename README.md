@@ -5,10 +5,13 @@ This is the official implementation of our paper:
 
 ```
 @inproceedings{rao2022ctin,
-  title={CTIN: Robust Contextual Transformer Network for Inertial Navigation},
-  author={Rao, Bingbing and Kazemi, Ehsan and Ding, Yifan and Shila, Devu and and Tucker, Frank and Wang, Liqiang},
+  title={CTIN: Robust contextual transformer network for inertial navigation},
+  author={Rao, Bingbing and Kazemi, Ehsan and Ding, Yifan and Shila, Devu M and Tucker, Frank M and Wang, Liqiang},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2022},
+  volume={36},
+  number={5},
+  pages={5413--5421},
+  year={2022}
 }
 ```
 
